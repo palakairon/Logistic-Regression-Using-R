@@ -1,0 +1,2 @@
+# Logistic-Regression-Using-R
+Logistic Regression is one among the machine learning algorithms used for solving classification problems. it is used to estimate probability whether an instance belongs to a category or not. If the estimated probability is bigger than threshold, then the model predicts that the instance belongs to that class, alternatively it predicts that it doesn’t belong to the category as shown in fig 1. This makes it a binary classifier. Logistic regression is employed where the worth of the variable is 0/1, true/false or yes/no.
